@@ -1,4 +1,6 @@
 Oregon Trail with Python(s)
+
+
 Welcome to the Oregon Trail game implemented in Python! This game puts you in the shoes of a pioneer traveling along the Oregon Trail, trying to make it to the next checkpoint before running out of food. Your decisions will determine the outcome of your journey.
 
 How to Play
